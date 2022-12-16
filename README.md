@@ -1,4 +1,4 @@
-# DES-CCF-Detection
+# An Heterogenous Ensemble Model for Credit Card Fraud Detection
 
 This project uses Dynamic Ensemble Selection (DES) to detect credit card fraud.
 
