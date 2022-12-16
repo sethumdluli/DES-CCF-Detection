@@ -7,30 +7,19 @@ The dataset used can be accessed from https://www.kaggle.com/datasets/dhanushnar
 DESlib is an easy-to-use ensemble learning library focused on the implementation of the state-of-the-art techniques for dynamic classifier and ensemble selection. The library is is based on scikit-learn, using the same method signatures: fit, predict, predict_proba and score. All dynamic selection techniques were implemented according to the definitions from [1].
 
 This model consists of the following classification algorithms:
-Markup: * Decision Trees
-        * Random Forest
-        * XGBoost
+* Decision Trees
+* Random Forest
+* XGBoost
         
 From the DESlib, the following techniques were used to create the proposed ensemble model:
-Markup : * K-Nearest-Oracle-Eliminate (KNORA-E) [2]
-         * K-Nearest-Oracle-Union (KNORA-U) [2]
-         * Dynamic Ensemble Selection-Performance(DES-P) [3]
+* K-Nearest-Oracle-Eliminate (KNORA-E) [2]
+* K-Nearest-Oracle-Union (KNORA-U) [2]
+* Dynamic Ensemble Selection-Performance(DES-P) [3]
         
 To evaluate the performance of the model, the following performance measures were used:
-Markup: * Accuracy
-        * Precision
-        * F1 score
-        * Recall
-        * AUC
-        
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+* Accuracy
+* Precision
+* F1 score
+* Recall
+* AUC
+       
