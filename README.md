@@ -12,9 +12,9 @@ Markup: * Decision Trees
         * XGBoost
         
 From the DESlib, the following techniques were used to create the proposed ensemble model:
-Markup: * K-Nearest-Oracle-Eliminate (KNORA-E) [2]
-        * K-Nearest-Oracle-Union (KNORA-U) [2]
-        * Dynamic Ensemble Selection-Performance(DES-P) [3]
+Markup : * K-Nearest-Oracle-Eliminate (KNORA-E) [2]
+         * K-Nearest-Oracle-Union (KNORA-U) [2]
+         * Dynamic Ensemble Selection-Performance(DES-P) [3]
         
 To evaluate the performance of the model, the following performance measures were used:
 Markup: * Accuracy
